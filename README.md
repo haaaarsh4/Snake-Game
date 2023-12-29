@@ -9,6 +9,7 @@ This is a simple Snake Game implemented in Java using Swing. The game allows the
    cd SnakeGame
    
 Compile and Run:
+
 javac SnakeGame.java
 java SnakeGame
 
@@ -35,10 +36,10 @@ This project is a simple implementation for educational purposes.
 Feel free to contribute or use it as a starting point for your own projects.
 
 ## Author
-** Harsh Upadhyay **
+**Harsh Upadhyay**
 
 License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
-Feel free to replace <repository-url> and ** Harsh Upadhyay ** with the appropriate information for your project. Additionally, if you haven't already, you can create a LICENSE.md file containing the text of the MIT License or another license of your choice.
+Feel free to replace <repository-url> and **Harsh Upadhyay** with the appropriate information for your project. Additionally, if you haven't already, you can create a LICENSE.md file containing the text of the MIT License or another license of your choice.
 
