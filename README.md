@@ -36,10 +36,4 @@ This project is a simple implementation for educational purposes.
 Feel free to contribute or use it as a starting point for your own projects.
 
 ## Author
-**Harsh Upadhyay**
-
-License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
-
-Feel free to replace <repository-url> and **Harsh Upadhyay** with the appropriate information for your project. Additionally, if you haven't already, you can create a LICENSE.md file containing the text of the MIT License or another license of your choice.
-
+Harsh Upadhyay
